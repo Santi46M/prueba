@@ -13,7 +13,5 @@ int main()
       cout << word << " ";
    }
    cout << endl;
-   puto el que lee gay
-       gil
-           gracias leo y dieguito maradona
+   // hola
 }
